@@ -1,0 +1,1 @@
+{"version":3,"file":"declarations.d.ts","sourceRoot":"","sources":["../src/declarations.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,IAAI;IACnB,SAAS,EAAE,MAAM,CAAC;IAClB,WAAW,EAAE,MAAM,CAAC;CACrB;AAED,MAAM,WAAW,OAAO;IACtB,QAAQ,EAAE,MAAM,CAAC;IACjB,QAAQ,EAAE,MAAM,CAAC;IACjB,cAAc,EAAE,MAAM,CAAC;CACxB"}
